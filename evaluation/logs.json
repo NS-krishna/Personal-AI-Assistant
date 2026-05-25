@@ -1,0 +1,514 @@
+[
+  {
+    "timestamp": "2026-03-08T13:48:16.182557",
+    "date": "2026-03-08",
+    "tool_used": "gmail_reader",
+    "score": 2,
+    "needs_retry": true,
+    "response_time_ms": 22708.3
+  },
+  {
+    "timestamp": "2026-03-08T13:48:20.837640",
+    "date": "2026-03-08",
+    "tool_used": "chat",
+    "score": 9,
+    "needs_retry": false,
+    "response_time_ms": 2281.3
+  },
+  {
+    "timestamp": "2026-03-08T13:48:43.279715",
+    "date": "2026-03-08",
+    "tool_used": "gmail_reader",
+    "score": 2,
+    "needs_retry": true,
+    "response_time_ms": 20135.5
+  },
+  {
+    "timestamp": "2026-03-08T13:54:05.221379",
+    "date": "2026-03-08",
+    "tool_used": "gmail_reader",
+    "score": 2,
+    "needs_retry": true,
+    "response_time_ms": 58356.0
+  },
+  {
+    "timestamp": "2026-03-08T14:09:01.541654",
+    "date": "2026-03-08",
+    "tool_used": "gmail_reader",
+    "score": 6,
+    "needs_retry": false,
+    "response_time_ms": 28053.9
+  },
+  {
+    "timestamp": "2026-03-08T14:11:57.320567",
+    "date": "2026-03-08",
+    "tool_used": "gmail_reader",
+    "score": 6,
+    "needs_retry": false,
+    "response_time_ms": 37154.9
+  },
+  {
+    "timestamp": "2026-03-08T14:14:09.975160",
+    "date": "2026-03-08",
+    "tool_used": "gmail_reader",
+    "score": 9,
+    "needs_retry": false,
+    "response_time_ms": 95598.8
+  },
+  {
+    "timestamp": "2026-03-08T14:17:42.249907",
+    "date": "2026-03-08",
+    "tool_used": "chat",
+    "score": 6,
+    "needs_retry": false,
+    "response_time_ms": 4082.1
+  },
+  {
+    "timestamp": "2026-03-08T14:18:16.648847",
+    "date": "2026-03-08",
+    "tool_used": "calendar",
+    "score": 2,
+    "needs_retry": true,
+    "response_time_ms": 4949.7
+  },
+  {
+    "timestamp": "2026-03-08T14:25:51.301415",
+    "date": "2026-03-08",
+    "tool_used": "calendar",
+    "score": 9,
+    "needs_retry": false,
+    "response_time_ms": 6026.7
+  },
+  {
+    "timestamp": "2026-03-08T14:27:59.887435",
+    "date": "2026-03-08",
+    "tool_used": "calendar",
+    "score": 2,
+    "needs_retry": true,
+    "response_time_ms": 13172.1
+  },
+  {
+    "timestamp": "2026-03-08T14:28:21.418727",
+    "date": "2026-03-08",
+    "tool_used": "calendar",
+    "score": 9,
+    "needs_retry": false,
+    "response_time_ms": 7415.0
+  },
+  {
+    "timestamp": "2026-03-08T14:29:34.051161",
+    "date": "2026-03-08",
+    "tool_used": "gmail_reader",
+    "score": 6,
+    "needs_retry": false,
+    "response_time_ms": 23951.7
+  },
+  {
+    "timestamp": "2026-03-08T14:30:04.142169",
+    "date": "2026-03-08",
+    "tool_used": "gmail_reader",
+    "score": 6,
+    "needs_retry": false,
+    "response_time_ms": 30077.7
+  },
+  {
+    "timestamp": "2026-03-08T14:30:12.232909",
+    "date": "2026-03-08",
+    "tool_used": "calendar",
+    "score": 6,
+    "needs_retry": false,
+    "response_time_ms": 5456.7
+  },
+  {
+    "timestamp": "2026-03-08T15:26:06.028120",
+    "date": "2026-03-08",
+    "tool_used": "chat",
+    "score": 6,
+    "needs_retry": false,
+    "response_time_ms": 2872.1
+  },
+  {
+    "timestamp": "2026-03-08T15:27:19.453987",
+    "date": "2026-03-08",
+    "tool_used": "calendar",
+    "score": 9,
+    "needs_retry": false,
+    "response_time_ms": 7833.1
+  },
+  {
+    "timestamp": "2026-03-09T16:21:19.855740",
+    "date": "2026-03-09",
+    "tool_used": "gmail_reader",
+    "score": 6,
+    "needs_retry": false,
+    "response_time_ms": 5473.0
+  },
+  {
+    "timestamp": "2026-03-09T16:21:40.485621",
+    "date": "2026-03-09",
+    "tool_used": "chat",
+    "score": 9,
+    "needs_retry": false,
+    "response_time_ms": 3154.7
+  },
+  {
+    "timestamp": "2026-03-09T16:21:50.143835",
+    "date": "2026-03-09",
+    "tool_used": "chat",
+    "score": 9,
+    "needs_retry": false,
+    "response_time_ms": 2312.4
+  },
+  {
+    "timestamp": "2026-03-09T16:21:59.821917",
+    "date": "2026-03-09",
+    "tool_used": "chat",
+    "score": 9,
+    "needs_retry": false,
+    "response_time_ms": 2724.4
+  },
+  {
+    "timestamp": "2026-03-09T16:29:16.082727",
+    "date": "2026-03-09",
+    "tool_used": "gmail_reader",
+    "score": 6,
+    "needs_retry": false,
+    "response_time_ms": 7765.2
+  },
+  {
+    "timestamp": "2026-03-09T16:30:57.691013",
+    "date": "2026-03-09",
+    "tool_used": "gmail_reader",
+    "score": 9,
+    "needs_retry": false,
+    "response_time_ms": 16108.2
+  },
+  {
+    "timestamp": "2026-03-09T19:26:50.973447",
+    "date": "2026-03-09",
+    "tool_used": "chat",
+    "score": 9,
+    "needs_retry": false,
+    "response_time_ms": 8242.2
+  },
+  {
+    "timestamp": "2026-03-09T19:29:30.663878",
+    "date": "2026-03-09",
+    "tool_used": "gmail_reader",
+    "score": 6,
+    "needs_retry": false,
+    "response_time_ms": 10978.0
+  },
+  {
+    "timestamp": "2026-03-09T19:42:12.097157",
+    "date": "2026-03-09",
+    "tool_used": "gmail_reader",
+    "score": 9,
+    "needs_retry": false,
+    "response_time_ms": 2914.1
+  },
+  {
+    "timestamp": "2026-03-09T19:43:13.441467",
+    "date": "2026-03-09",
+    "tool_used": "gmail_reader",
+    "score": 2,
+    "needs_retry": true,
+    "response_time_ms": 4253.6
+  },
+  {
+    "timestamp": "2026-03-09T21:44:52.451364",
+    "date": "2026-03-09",
+    "tool_used": "gmail_reader",
+    "score": 9,
+    "needs_retry": false,
+    "response_time_ms": 15328.0
+  },
+  {
+    "timestamp": "2026-03-09T21:45:15.784836",
+    "date": "2026-03-09",
+    "tool_used": "gmail_reader",
+    "score": 9,
+    "needs_retry": false,
+    "response_time_ms": 12000.8
+  },
+  {
+    "timestamp": "2026-03-09T21:45:50.288551",
+    "date": "2026-03-09",
+    "tool_used": "chat",
+    "score": 9,
+    "needs_retry": false,
+    "response_time_ms": 5128.4
+  },
+  {
+    "timestamp": "2026-03-09T21:48:04.171631",
+    "date": "2026-03-09",
+    "tool_used": "gmail_reader",
+    "score": 6,
+    "needs_retry": false,
+    "response_time_ms": 71933.8
+  },
+  {
+    "timestamp": "2026-03-09T21:49:17.299249",
+    "date": "2026-03-09",
+    "tool_used": "gmail_reader",
+    "score": 9,
+    "needs_retry": false,
+    "response_time_ms": 5697.9
+  },
+  {
+    "timestamp": "2026-03-09T21:50:09.296768",
+    "date": "2026-03-09",
+    "tool_used": "chat",
+    "score": 9,
+    "needs_retry": false,
+    "response_time_ms": 5017.6
+  },
+  {
+    "timestamp": "2026-03-09T21:50:26.284200",
+    "date": "2026-03-09",
+    "tool_used": "chat",
+    "score": 9,
+    "needs_retry": false,
+    "response_time_ms": 6805.6
+  },
+  {
+    "timestamp": "2026-03-09T21:51:12.806002",
+    "date": "2026-03-09",
+    "tool_used": "gmail_reader",
+    "score": 9,
+    "needs_retry": false,
+    "response_time_ms": 4656.1
+  },
+  {
+    "timestamp": "2026-03-09T21:51:26.197414",
+    "date": "2026-03-09",
+    "tool_used": "chat",
+    "score": 9,
+    "needs_retry": false,
+    "response_time_ms": 7375.7
+  },
+  {
+    "timestamp": "2026-03-09T21:56:29.346903",
+    "date": "2026-03-09",
+    "tool_used": "chat",
+    "score": 6,
+    "needs_retry": false,
+    "response_time_ms": 17250.6
+  },
+  {
+    "timestamp": "2026-03-09T21:57:26.679788",
+    "date": "2026-03-09",
+    "tool_used": "gmail_reader",
+    "score": 9,
+    "needs_retry": false,
+    "response_time_ms": 7115.5
+  },
+  {
+    "timestamp": "2026-03-09T21:57:48.167518",
+    "date": "2026-03-09",
+    "tool_used": "gmail_reader",
+    "score": 9,
+    "needs_retry": false,
+    "response_time_ms": 13569.8
+  },
+  {
+    "timestamp": "2026-03-09T21:58:41.494816",
+    "date": "2026-03-09",
+    "tool_used": "gmail_reader",
+    "score": 9,
+    "needs_retry": false,
+    "response_time_ms": 9343.2
+  },
+  {
+    "timestamp": "2026-03-09T22:00:42.646336",
+    "date": "2026-03-09",
+    "tool_used": "gmail_reader",
+    "score": 9,
+    "needs_retry": false,
+    "response_time_ms": 9437.7
+  },
+  {
+    "timestamp": "2026-03-09T22:00:59.937975",
+    "date": "2026-03-09",
+    "tool_used": "gmail_reader",
+    "score": 9,
+    "needs_retry": false,
+    "response_time_ms": 10447.3
+  },
+  {
+    "timestamp": "2026-03-09T22:02:03.381567",
+    "date": "2026-03-09",
+    "tool_used": "gmail_reader",
+    "score": 9,
+    "needs_retry": false,
+    "response_time_ms": 5701.3
+  },
+  {
+    "timestamp": "2026-03-09T22:02:15.828397",
+    "date": "2026-03-09",
+    "tool_used": "gmail_reader",
+    "score": 9,
+    "needs_retry": false,
+    "response_time_ms": 6353.4
+  },
+  {
+    "timestamp": "2026-03-09T22:13:11.382644",
+    "date": "2026-03-09",
+    "tool_used": "gmail_reader",
+    "score": 9,
+    "needs_retry": false,
+    "response_time_ms": 6469.7
+  },
+  {
+    "timestamp": "2026-03-09T22:13:24.560661",
+    "date": "2026-03-09",
+    "tool_used": "gmail_reader",
+    "score": 9,
+    "needs_retry": false,
+    "response_time_ms": 7258.1
+  },
+  {
+    "timestamp": "2026-03-09T22:22:15.621810",
+    "date": "2026-03-09",
+    "tool_used": "chat",
+    "score": 7,
+    "needs_retry": false,
+    "response_time_ms": 4638.1
+  },
+  {
+    "timestamp": "2026-03-09T22:23:33.464320",
+    "date": "2026-03-09",
+    "tool_used": "chat",
+    "score": 2,
+    "needs_retry": true,
+    "response_time_ms": 6476.9
+  },
+  {
+    "timestamp": "2026-03-10T10:26:19.963549",
+    "date": "2026-03-10",
+    "tool_used": "web_search",
+    "score": 9,
+    "needs_retry": false,
+    "response_time_ms": 5416.3
+  },
+  {
+    "timestamp": "2026-03-10T10:43:20.929806",
+    "date": "2026-03-10",
+    "tool_used": "chat",
+    "score": 9,
+    "needs_retry": false,
+    "response_time_ms": 4133.7
+  },
+  {
+    "timestamp": "2026-03-10T10:44:27.744254",
+    "date": "2026-03-10",
+    "tool_used": "web_search",
+    "score": 9,
+    "needs_retry": false,
+    "response_time_ms": 8601.8
+  },
+  {
+    "timestamp": "2026-03-10T15:39:44.106225",
+    "date": "2026-03-10",
+    "tool_used": "calendar",
+    "score": 2,
+    "needs_retry": true,
+    "response_time_ms": 14070.7
+  },
+  {
+    "timestamp": "2026-03-10T15:39:52.629714",
+    "date": "2026-03-10",
+    "tool_used": "gmail_reader",
+    "score": 9,
+    "needs_retry": false,
+    "response_time_ms": 8501.0
+  },
+  {
+    "timestamp": "2026-03-10T15:40:16.960831",
+    "date": "2026-03-10",
+    "tool_used": "web_search",
+    "score": 6,
+    "needs_retry": false,
+    "response_time_ms": 10938.6
+  },
+  {
+    "timestamp": "2026-03-10T15:43:14.194591",
+    "date": "2026-03-10",
+    "tool_used": "calendar",
+    "score": 2,
+    "needs_retry": true,
+    "response_time_ms": 10662.8
+  },
+  {
+    "timestamp": "2026-03-10T15:51:44.325726",
+    "date": "2026-03-10",
+    "tool_used": "chat",
+    "score": 9,
+    "needs_retry": false,
+    "response_time_ms": 2823.1
+  },
+  {
+    "timestamp": "2026-03-10T15:52:31.406128",
+    "date": "2026-03-10",
+    "tool_used": "chat",
+    "score": 9,
+    "needs_retry": false,
+    "response_time_ms": 5146.5
+  },
+  {
+    "timestamp": "2026-03-10T15:52:40.817806",
+    "date": "2026-03-10",
+    "tool_used": "web_search",
+    "score": 9,
+    "needs_retry": false,
+    "response_time_ms": 9070.8
+  },
+  {
+    "timestamp": "2026-03-10T15:53:14.103042",
+    "date": "2026-03-10",
+    "tool_used": "web_search",
+    "score": 9,
+    "needs_retry": false,
+    "response_time_ms": 2629.5
+  },
+  {
+    "timestamp": "2026-03-10T15:56:19.494080",
+    "date": "2026-03-10",
+    "tool_used": "web_search",
+    "score": 9,
+    "needs_retry": false,
+    "response_time_ms": 4891.5
+  },
+  {
+    "timestamp": "2026-03-10T15:57:59.465848",
+    "date": "2026-03-10",
+    "tool_used": "web_search",
+    "score": 9,
+    "needs_retry": false,
+    "response_time_ms": 3721.9
+  },
+  {
+    "timestamp": "2026-03-10T16:05:02.011465",
+    "date": "2026-03-10",
+    "tool_used": "web_search",
+    "score": 9,
+    "needs_retry": false,
+    "response_time_ms": 7807.1
+  },
+  {
+    "timestamp": "2026-03-10T16:13:40.882799",
+    "date": "2026-03-10",
+    "tool_used": "web_search",
+    "score": 9,
+    "needs_retry": false,
+    "response_time_ms": 3529.3
+  },
+  {
+    "timestamp": "2026-03-10T16:13:59.993356",
+    "date": "2026-03-10",
+    "tool_used": "web_search",
+    "score": 2,
+    "needs_retry": true,
+    "response_time_ms": 6483.5
+  }
+]
